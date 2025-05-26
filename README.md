@@ -1,6 +1,6 @@
 # arena-samp
 
-A ideia era ser um sistema de arenas dinâmicas, onde o administrador poderia configurar: modo de jogo, tipo de armas, tempo, quantidade de jogadores, etc. Porém, estou priorizando outros assuntos e não consegui terminei o código.
+A ideia era ser um sistema de arenas dinâmicas, onde o administrador poderia configurar: modo de jogo, tipo de armas, tempo, quantidade de jogadores, etc. Porém, estou priorizando outros assuntos e não consegui terminar o código.
 
 ## Comandos:  
 ```
