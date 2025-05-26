@@ -40,5 +40,5 @@ CountPlayersInArena(int playerid, int arenaID);
 
 ```pawn
 // Configura as arenas
-InitializeArenas(int playerid, int arenaID);
+InitializeArenas();
 ```
